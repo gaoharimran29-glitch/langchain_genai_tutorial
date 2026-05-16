@@ -1,0 +1,9 @@
+LangGraph is a framework for building stateful AI agents.
+
+LangSmith is used for tracing and monitoring LLM applications.
+
+FAISS is a vector database used for similarity search.
+
+RAG stands for Retrieval Augmented Generation.
+
+Viral kohli is a cricketer.
